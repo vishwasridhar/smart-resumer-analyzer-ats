@@ -1,4 +1,4 @@
-﻿# 🚀 SkillScan ATS – FitSense Engine
+﻿# 🚀 SkillScan ATS 
 
 AI-powered resume analysis system that simulates real-world Applicant Tracking System (ATS) evaluation logic.
 
@@ -17,7 +17,7 @@ It helps candidates understand how well their resume matches a specific job role
 
 ## 🎯 Core Features
 
-- Resume Upload (PDF / TXT)
+- Resume Upload (PDF / TXT/ docx)
 - Job Description Matching
 - ATS Compatibility Score
 - Fresher & Experienced Mode
