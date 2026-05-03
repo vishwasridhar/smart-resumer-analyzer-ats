@@ -1,4 +1,5 @@
-<img width="1600" height="900" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/cb138efa-8483-48ff-b1f5-25763eaa861b" />
+<img width="1203" height="645" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/1468050c-8047-41a5-95a2-34c8e552cd75" />
+
 ﻿# 🚀 SkillScan ATS 
 
 AI-powered resume analysis system that simulates real-world Applicant Tracking System (ATS) evaluation logic.
